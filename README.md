@@ -1,3 +1,15 @@
+[![Latest Version](https://img.shields.io/github/release/dmoneil2/bond-cni.svg?style=flat-square)](https://github.com/dmoneil2/bond-cni/releases) 
+[![GitHub last commit](https://img.shields.io/github/last-commit/dmoneil2/bond-cni.svg?style=flat-square)](#) 
+[![HitCount](http://hits.dwyl.io/dmoneil2/bond-cni.svg)](http://hits.dwyl.io/dmoneil2/bond-cni) 
+[![Packagist Downloads](https://img.shields.io/packagist/dt/dmoneil2/bond-cni.svg?style=flat-square)](https://packagist.org/packages/dmoneil2/bond-cni) 
+
+
+[![Build Status](https://travis-ci.org/dmoneil2/bond-cni.svg?branch=master&style=flat-square)](https://travis-ci.org/dmoneil2/bond-cni) 
+[![Coverage Status](https://coveralls.io/repos/github/dmoneil2/bond-cni/badge.svg?branch=master&style=flat-square)](https://coveralls.io/github/dmoneil2/bond-cni) 
+[![CodeCov](https://codecov.io/gh/dmoneil2/bond-cni/branch/master/graph/badge.svg?style=flat-square)](https://codecov.io/github/dmoneil2/bond-cni/) 
+[![Code consistency](https://squizlabs.github.io/PHP_CodeSniffer/analysis/dmoneil2/bond-cni/grade.svg?style=flat-square)](https://squizlabs.github.io/PHP_CodeSniffer/analysis/dmoneil2/bond-cni)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0d913c0217743b1b6bac153d0c2286d)](https://www.codacy.com/app/dmoneil2/bond-cni?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dmoneil2/bond-cni&amp;utm_campaign=Badge_Grade)
+
 # Bonding CNI plugin
 
 - Bonding provides a method for aggregating multiple network interfaces into a single logical &quot;bonded&quot; interface.
